@@ -7,6 +7,8 @@ subtitle: "Applied Mathematics · Stochastic Control · Optimization under Uncer
 
 ::: {.column width="30%"}
 ![](images/profile.jpg){.profile-photo}
+
+*Website under construction — content is being updated.*
 :::
 
 ::: {.column width="70%"}
@@ -30,11 +32,11 @@ Stochastic Control · Distributionally Robust Optimization · Markov Jump System
 ## Selected Publications
 
 **A Model of Strategic Sustainable Investment**  
-T. De Angelis, C. C. G. Rodrigues, and P. Tankov  
+T. De Angelis, C. C. Graciani Rodrigues, and P. Tankov  
 *Mathematical Finance*, 2026.
 
 **Free-Energy Minimizing Policies Under Generative Model Ambiguity**  
-C. C. G. Rodrigues et al.  
+C. C. Graciani Rodrigues et al.  
 *European Control Conference (ECC)*, 2026.
 
 [View all publications →](publications.qmd)

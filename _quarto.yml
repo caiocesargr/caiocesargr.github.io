@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Caio C. Graciani Rodrigues"
+  title: "Caio César Graciani Rodrigues"
 
   navbar:
     left:
