@@ -1,1 +1,34 @@
 /* css styles */
+/* Profile picture */
+.profile-photo {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+/* Main content width */
+.page-columns {
+  max-width: 1200px;
+}
+
+/* Headings */
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  margin-top: 2rem;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.anchorjs-link {
+  display: none;
+}

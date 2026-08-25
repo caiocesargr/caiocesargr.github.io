@@ -1,16 +1,79 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "About this site"
+    "text": "Curriculum Vitae"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talks"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Caio César Graciani Rodrigues",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a Postdoctoral Researcher at the Scuola Superiore Meridionale (SSM) in Naples, Italy.\nMy research lies at the intersection of stochastic control, optimization, applied probability, and decision-making under uncertainty, with particular interests in distributionally robust optimization, Markov jump systems, stochastic games, and mathematical finance.\nResearch · Publications · CV"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Caio César Graciani Rodrigues",
+    "section": "",
+    "text": "I am a Postdoctoral Researcher at the Scuola Superiore Meridionale (SSM) in Naples, Italy.\nMy research lies at the intersection of stochastic control, optimization, applied probability, and decision-making under uncertainty, with particular interests in distributionally robust optimization, Markov jump systems, stochastic games, and mathematical finance.\nResearch · Publications · CV"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Caio César Graciani Rodrigues",
+    "section": "Research Interests",
+    "text": "Research Interests\nStochastic Control · Distributionally Robust Optimization · Markov Jump Systems · Applied Probability · Stochastic Games · Mathematical Finance"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Caio César Graciani Rodrigues",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nA Model of Strategic Sustainable Investment\nT. De Angelis, C. C. G. Rodrigues, and P. Tankov\nMathematical Finance, 2026.\nFree-Energy Minimizing Policies Under Generative Model Ambiguity\nC. C. G. Rodrigues et al.\nEuropean Control Conference (ECC), 2026.\nView all publications →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

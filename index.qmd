@@ -1,7 +1,40 @@
 ---
 title: "Caio César Graciani Rodrigues"
+subtitle: "Applied Mathematics · Stochastic Control · Optimization under Uncertainty"
 ---
 
-This is a Quarto website.
+::: {.columns}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="30%"}
+![](images/profile.jpg){.profile-photo}
+:::
+
+::: {.column width="70%"}
+
+## About
+
+I am a Postdoctoral Researcher at the **Scuola Superiore Meridionale (SSM)** in Naples, Italy.
+
+My research lies at the intersection of **stochastic control, optimization, applied probability, and decision-making under uncertainty**, with particular interests in distributionally robust optimization, Markov jump systems, stochastic games, and mathematical finance.
+
+[Research](research.qmd) · [Publications](publications.qmd) · [CV](cv.qmd)
+
+:::
+
+:::
+
+## Research Interests
+
+Stochastic Control · Distributionally Robust Optimization · Markov Jump Systems · Applied Probability · Stochastic Games · Mathematical Finance
+
+## Selected Publications
+
+**A Model of Strategic Sustainable Investment**  
+T. De Angelis, C. C. G. Rodrigues, and P. Tankov  
+*Mathematical Finance*, 2026.
+
+**Free-Energy Minimizing Policies Under Generative Model Ambiguity**  
+C. C. G. Rodrigues et al.  
+*European Control Conference (ECC)*, 2026.
+
+[View all publications →](publications.qmd)

@@ -3,20 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "Caio César Graciani Rodrigues"
+  title: "Caio C. Graciani Rodrigues"
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: talks.qmd
+        text: Talks
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    center: "© 2026 Caio C. Graciani Rodrigues"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false
