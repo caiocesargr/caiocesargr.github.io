@@ -1,6 +1,7 @@
 ---
 title: "Research"
 pagetitle: "Research | Caio César Graciani Rodrigues"
+description: "Research on stochastic control, distributionally robust optimization, Markov jump systems, stochastic games, and decision-making under uncertainty."
 ---
 
 My research lies at the intersection of **stochastic control, optimization, applied probability, and decision-making under uncertainty**. A recurring theme in my work is the development of mathematical models and computational methods for systems operating under incomplete information, stochastic dynamics, or model uncertainty.

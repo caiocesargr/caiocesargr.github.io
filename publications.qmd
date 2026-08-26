@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 pagetitle: "Publications | Caio César Graciani Rodrigues"
+description: "Journal articles and conference proceedings by Caio César Graciani Rodrigues in stochastic control, applied probability, optimization, and mathematical finance."
 ---
 
 ## Journal Articles

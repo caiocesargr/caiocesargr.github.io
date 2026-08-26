@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 pagetitle: "Teaching | Caio César Graciani Rodrigues"
+description: "Teaching experience in probability, stochastic modeling, mathematics, and data modeling."
 ---
 
 ## Scuola Superiore Meridionale

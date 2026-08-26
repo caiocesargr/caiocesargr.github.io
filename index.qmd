@@ -1,5 +1,5 @@
 ---
-title: "Caio C. Graciani Rodrigues"
+title: "Caio César Graciani Rodrigues"
 subtitle: "Applied Mathematics · Stochastic Control · Optimization under Uncertainty"
 pagetitle: "Caio César Graciani Rodrigues | Applied Mathematics"
 ---
