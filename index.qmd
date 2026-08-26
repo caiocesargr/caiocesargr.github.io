@@ -14,7 +14,7 @@ pagetitle: "Caio César Graciani Rodrigues | Applied Mathematics"
 
 ## From the Steel City to Vesuvius
 
-Hello! My name is Caio, and I am a Brazilian researcher originally from Volta Redonda, Rio de Janeiro — a city widely known in Brazil as the *Steel City*. I am currently a Postdoctoral Researcher at the **Scuola Superiore Meridionale (SSM)** in Naples, Italy, not far from the slopes of Mount Vesuvius.
+Hello! My name is Caio, and I am a Brazilian researcher originally from Volta Redonda, Rio de Janeiro, a city widely known in Brazil as the *Steel City*. I am currently a Postdoctoral Researcher at the **Scuola Superiore Meridionale (SSM)** in Naples, Italy, not far from the slopes of Mount Vesuvius.
 
 My academic journey has taken me across different areas of mathematics and computational science. I hold a **B.Sc. in Mathematics** and an **M.Sc. in Computational Modeling in Science and Technology**, both from the Fluminense Federal University (UFF), Brazil, as well as a **D.Sc. in Computational Modeling** from the National Laboratory for Scientific Computing (LNCC), Brazil.
 
