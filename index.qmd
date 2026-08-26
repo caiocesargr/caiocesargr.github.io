@@ -12,11 +12,15 @@ pagetitle: "Caio César Graciani Rodrigues | Applied Mathematics"
 
 ::: {.column .about-text width="70%"}
 
-## About
+## From the Steel City to Vesuvius
 
-I am a Postdoctoral Researcher at the **Scuola Superiore Meridionale (SSM)** in Naples, Italy.
+Hello! My name is Caio, and I am a Brazilian researcher originally from Volta Redonda, Rio de Janeiro — a city widely known in Brazil as the *Steel City*. I am currently a Postdoctoral Researcher at the **Scuola Superiore Meridionale (SSM)** in Naples, Italy, not far from the slopes of Mount Vesuvius.
 
-My research lies at the intersection of **stochastic control, optimization, applied probability, and decision-making under uncertainty**, with particular interests in stochastic control, distributionally robust optimization, and Markov jump systems.
+My academic journey has taken me across different areas of mathematics and computational science. I hold a **B.Sc. in Mathematics** and an **M.Sc. in Computational Modeling in Science and Technology**, both from the Fluminense Federal University (UFF), Brazil, as well as a **D.Sc. in Computational Modeling** from the National Laboratory for Scientific Computing (LNCC), Brazil.
+
+I have always been curious about learning new tools, exploring new problems, and moving across disciplinary boundaries. This curiosity has shaped a multidisciplinary research path, bringing together mathematics, probability, optimization, control theory, computational modeling, and applications in different scientific domains.
+
+Today, my research interests lie mainly in **stochastic control, applied probability, distributionally robust optimization, Markov jump systems, stochastic games, mathematical finance, and decision-making under uncertainty**.
 
 [Research](research.qmd) · [Publications](publications.qmd) · [CV](cv.qmd)
 
