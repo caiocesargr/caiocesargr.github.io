@@ -11,13 +11,13 @@ subtitle: "Applied Mathematics · Stochastic Control · Optimization under Uncer
 *Website under construction — content is being updated.*
 :::
 
-::: {.column width="70%"}
+::: {.column .about-text width="70%"}
 
 ## About
 
 I am a Postdoctoral Researcher at the **Scuola Superiore Meridionale (SSM)** in Naples, Italy.
 
-My research lies at the intersection of **stochastic control, optimization, applied probability, and decision-making under uncertainty**, with particular interests in distributionally robust optimization, Markov jump systems, stochastic games, and mathematical finance.
+My research lies at the intersection of **stochastic control, optimization, applied probability, and decision-making under uncertainty**, with particular interests in stochastic control, distributionally robust optimization, and Markov jump systems.
 
 [Research](research.qmd) · [Publications](publications.qmd) · [CV](cv.qmd)
 
@@ -27,7 +27,7 @@ My research lies at the intersection of **stochastic control, optimization, appl
 
 ## Research Interests
 
-Stochastic Control · Distributionally Robust Optimization · Markov Jump Systems · Applied Probability · Stochastic Games · Mathematical Finance
+Stochastic Control · Distributionally Robust Optimization · Markov Jump Systems · Applied Probability
 
 ## Selected Publications
 
@@ -36,7 +36,11 @@ T. De Angelis, C. C. Graciani Rodrigues, and P. Tankov
 *Mathematical Finance*, 2026.
 
 **Free-Energy Minimizing Policies Under Generative Model Ambiguity**  
-C. C. Graciani Rodrigues et al.  
+A. Shafiei, C. C. Graciani Rodrigues, and G. Russo  
 *European Control Conference (ECC)*, 2026.
+
+**Fast Detector-Based $H_2$ Control for Markov Jump Linear Systems with Multiplicative Noises**  
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+*SIAM Journal on Control and Optimization*, 59(6), 4243–4267, 2021.  
 
 [View all publications →](publications.qmd)

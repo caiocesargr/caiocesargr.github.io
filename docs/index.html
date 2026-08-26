@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -162,18 +191,18 @@ ul.task-list li input[type="checkbox"] {
 <div class="column" style="width:30%;">
 <p><img src="images/profile.jpg" class="profile-photo img-fluid"></p>
 <p><em>Website under construction — content is being updated.</em></p>
-</div><div class="column" style="width:70%;">
+</div><div class="column about-text" style="width:70%;">
 <section id="about" class="level2">
 <h2 class="anchored" data-anchor-id="about">About</h2>
 <p>I am a Postdoctoral Researcher at the <strong>Scuola Superiore Meridionale (SSM)</strong> in Naples, Italy.</p>
-<p>My research lies at the intersection of <strong>stochastic control, optimization, applied probability, and decision-making under uncertainty</strong>, with particular interests in distributionally robust optimization, Markov jump systems, stochastic games, and mathematical finance.</p>
+<p>My research lies at the intersection of <strong>stochastic control, optimization, applied probability, and decision-making under uncertainty</strong>, with particular interests in stochastic control, distributionally robust optimization, and Markov jump systems.</p>
 <p><a href="./research.html">Research</a> · <a href="./publications.html">Publications</a> · <a href="./cv.html">CV</a></p>
 </section>
 </div>
 </div>
 <section id="research-interests" class="level2">
 <h2 class="anchored" data-anchor-id="research-interests">Research Interests</h2>
-<p>Stochastic Control · Distributionally Robust Optimization · Markov Jump Systems · Applied Probability · Stochastic Games · Mathematical Finance</p>
+<p>Stochastic Control · Distributionally Robust Optimization · Markov Jump Systems · Applied Probability</p>
 </section>
 <section id="selected-publications" class="level2">
 <h2 class="anchored" data-anchor-id="selected-publications">Selected Publications</h2>
@@ -181,8 +210,11 @@ ul.task-list li input[type="checkbox"] {
 T. De Angelis, C. C. Graciani Rodrigues, and P. Tankov<br>
 <em>Mathematical Finance</em>, 2026.</p>
 <p><strong>Free-Energy Minimizing Policies Under Generative Model Ambiguity</strong><br>
-C. C. Graciani Rodrigues et al.<br>
+A. Shafiei, C. C. Graciani Rodrigues, and G. Russo<br>
 <em>European Control Conference (ECC)</em>, 2026.</p>
+<p><strong>Fast Detector-Based <span class="math inline">\(H_2\)</span> Control for Markov Jump Linear Systems with Multiplicative Noises</strong><br>
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso<br>
+<em>SIAM Journal on Control and Optimization</em>, 59(6), 4243–4267, 2021.</p>
 <p><a href="./publications.html">View all publications →</a></p>
 
 

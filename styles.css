@@ -29,3 +29,8 @@ a:hover {
 .anchorjs-link {
   display: none;
 }
+
+.about-text p {
+  text-align: justify;
+  text-justify: inter-word;
+}
