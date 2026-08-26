@@ -4,6 +4,10 @@ project:
 
 website:
   title: "Caio César Graciani Rodrigues"
+  site-url: "https://caiocesargr.github.io"
+  description: "Academic website of Caio César Graciani Rodrigues, researcher in applied mathematics, stochastic control, optimization, applied probability, and decision-making under uncertainty."
+  favicon: images/favicon.png
+  open-graph: true
 
   navbar:
     left:
