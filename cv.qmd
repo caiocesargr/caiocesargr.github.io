@@ -1,1 +1,32 @@
-# Curriculum Vitae
+---
+title: "Curriculum Vitae"
+---
+
+An up-to-date version of my academic curriculum vitae is available below.
+
+[**Download full CV (PDF)**](files/Caio_Graciani_Rodrigues_CV.pdf){.btn .btn-primary}
+
+## Current Position
+
+**Postdoctoral Researcher**  
+Department of Modeling and Engineering of Risk and Complexity (MERC)  
+Scuola Superiore Meridionale (SSM)  
+Naples, Italy
+
+## Education
+
+**Doctor of Science (D.Sc.) in Computational Modeling**  
+National Laboratory for Scientific Computing (LNCC), Brazil  
+2013–2017
+
+**Master of Science (M.Sc.) in Computational Modeling in Science and Technology**  
+Fluminense Federal University (UFF), Brazil  
+2011–2013
+
+**B.Sc. in Mathematics**  
+Fluminense Federal University (UFF), Brazil  
+2007–2010
+
+## Research Areas
+
+Stochastic Control · Applied Probability · Distributionally Robust Optimization · Markov Jump Systems · Stochastic Games · Mathematical Finance

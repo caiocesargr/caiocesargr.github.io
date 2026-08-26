@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>talks – Caio César Graciani Rodrigues</title>
+<title>Talks &amp; Academic Activities – Caio César Graciani Rodrigues</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -136,15 +165,76 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Talks &amp; Academic Activities</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<section id="talks" class="level1">
-<h1>Talks</h1>
+    
+  
+    
+  </div>
+  
 
 
+</header>
+
+
+<section id="conference-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="conference-presentations">Conference Presentations</h2>
+<section id="european-control-conference-ecc-2026" class="level3">
+<h3 class="anchored" data-anchor-id="european-control-conference-ecc-2026">European Control Conference (ECC 2026)</h3>
+<p><strong>Free-Energy Minimizing Policies under Generative Model Ambiguity</strong><br>
+European Control Conference (ECC 2026)<br>
+Reykjavík, Iceland, July 2026</p>
+<p>A. Shafiei, C. C. Graciani Rodrigues, and G. Russo</p>
+<p><a href="https://arxiv.org/abs/2604.08222">arXiv</a></p>
+</section>
+<section id="th-ieee-conference-on-decision-and-control-cdc-2018" class="level3">
+<h3 class="anchored" data-anchor-id="th-ieee-conference-on-decision-and-control-cdc-2018">57th IEEE Conference on Decision and Control (CDC 2018)</h3>
+<p><strong>Mean Square Stability and <span class="math inline">\(H_2\)</span> Control for Markov Jump Linear Systems with Multiplicative Noises and Partial Mode Information</strong><br>
+Miami Beach, FL, USA, 2018</p>
+<p>C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso</p>
+<p><a href="https://doi.org/10.1109/CDC.2018.8619184">DOI</a></p>
+</section>
+<section id="th-ieee-conference-on-decision-and-control-cdc-2016" class="level3">
+<h3 class="anchored" data-anchor-id="th-ieee-conference-on-decision-and-control-cdc-2016">55th IEEE Conference on Decision and Control (CDC 2016)</h3>
+<p><strong><span class="math inline">\(H_\infty\)</span> Filtering for Markovian Jump Linear Systems with Mode Partial Information</strong><br>
+Las Vegas, USA, December 2016</p>
+<p>C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso</p>
+<p><a href="https://doi.org/10.1109/CDC.2016.7798341">DOI</a></p>
+</section>
+<section id="xxi-congresso-brasileiro-de-automática-cba-2016" class="level3">
+<h3 class="anchored" data-anchor-id="xxi-congresso-brasileiro-de-automática-cba-2016">XXI Congresso Brasileiro de Automática (CBA 2016)</h3>
+<p><strong><span class="math inline">\(H_\infty\)</span> Control for Continuous-Time Markov Jump Linear Systems with Partial Mode Information</strong><br>
+Vitória, ES, Brazil, October 2016</p>
+<p>C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso</p>
+</section>
+<section id="th-ieee-conference-on-decision-and-control-cdc-2015" class="level3">
+<h3 class="anchored" data-anchor-id="th-ieee-conference-on-decision-and-control-cdc-2015">54th IEEE Conference on Decision and Control (CDC 2015)</h3>
+<p><strong>A Bounded Real Lemma for Continuous-Time Linear Systems with Partial Information on the Markovian Jumping Parameters</strong><br>
+Osaka, Japan, 2015</p>
+<p>C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso</p>
+<p><a href="https://doi.org/10.1109/CDC.2015.7402878">DOI</a></p>
+</section>
+</section>
+<section id="scientific-organization" class="level2">
+<h2 class="anchored" data-anchor-id="scientific-organization">Scientific Organization</h2>
+<section id="invited-session-european-control-conference-ecc-2026" class="level3">
+<h3 class="anchored" data-anchor-id="invited-session-european-control-conference-ecc-2026">Invited Session — European Control Conference (ECC 2026)</h3>
+<p><strong>Robust Learning, Control, and Games under Uncertainty: Theory, Algorithms and Applications</strong></p>
+<p>European Control Conference (ECC 2026)<br>
+Reykjavík, Iceland, July 2026</p>
+<p>Invited session jointly organized with <strong>Prof.&nbsp;Giovanni Russo</strong>, University of Salerno.</p>
+
+
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -555,7 +645,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© 2026 Caio C. Graciani Rodrigues</p>
+<p>© 2026 Caio César Graciani Rodrigues</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

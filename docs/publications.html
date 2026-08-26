@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>publications – Caio César Graciani Rodrigues</title>
+<title>Publications – Caio César Graciani Rodrigues</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -136,13 +165,83 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Publications</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<section id="publications" class="level1">
-<h1>Publications</h1>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="journal-articles" class="level2">
+<h2 class="anchored" data-anchor-id="journal-articles">Journal Articles</h2>
+<ol type="1">
+<li><p><strong>A Model of Strategic Sustainable Investment</strong><br>
+T. De Angelis, C. C. Graciani Rodrigues, and P. Tankov<br>
+<em>Mathematical Finance</em>, 2026.<br>
+<a href="https://doi.org/10.1111/mafi.70033">DOI</a> · <a href="https://arxiv.org/abs/2412.00986">arXiv</a></p></li>
+<li><p><strong>Fast Detector-Based <span class="math inline">\(H_2\)</span> Control for Markov Jump Linear Systems with Multiplicative Noises</strong><br>
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso<br>
+<em>SIAM Journal on Control and Optimization</em>, 59(6), 4243–4267, 2021.<br>
+<a href="https://doi.org/10.1137/20M1335303">DOI</a></p></li>
+<li><p><strong>Homogenized First-Moment Analysis of Two-Time-Scale Positive Markov Jump Linear Systems</strong><br>
+M. G. Todorov, F. O. dos Santos, and C. C. Graciani Rodrigues<br>
+<em>Journal of the Franklin Institute</em>, 2021.<br>
+<a href="https://doi.org/10.1016/j.jfranklin.2021.01.016">DOI</a></p></li>
+<li><p><strong>Detector-Based Approach for <span class="math inline">\(H_\infty\)</span> Filtering of Markov Jump Linear Systems with Partial Mode Information</strong><br>
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso<br>
+<em>IET Control Theory &amp; Applications</em>, 13(9), 1298–1308, 2019.<br>
+<a href="http://ietdl.org/t/xZX83b">Article</a></p></li>
+<li><p><strong><span class="math inline">\(H_\infty\)</span> Control of Continuous-Time Markov Jump Linear Systems with Detector-Based Information</strong><br>
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso<br>
+<em>International Journal of Control</em>, 90(10), 2178–2196, 2017.<br>
+<a href="https://doi.org/10.1080/00207179.2016.1238511">DOI</a></p></li>
+<li><p><strong>An Agent-Based Computational Model for Tuberculosis Spreading on Age-Structured Populations</strong><br>
+C. C. Graciani Rodrigues, A. L. Espíndola, and T. J. Penna<br>
+<em>Physica A</em>, 428, 52–59, 2015.<br>
+<a href="https://doi.org/10.1016/j.physa.2015.02.027">DOI</a></p></li>
+</ol>
+</section>
+<section id="conference-proceedings" class="level2">
+<h2 class="anchored" data-anchor-id="conference-proceedings">Conference Proceedings</h2>
+<ol type="1">
+<li><p><strong>Free-Energy Minimizing Policies under Generative Model Ambiguity</strong><br>
+A. Shafiei, C. C. Graciani Rodrigues, and G. Russo<br>
+<em>2026 European Control Conference (ECC)</em>, 2006–2013, 2026.<br>
+<a href="https://arxiv.org/abs/2604.08222">arXiv</a></p></li>
+<li><p><strong>A Hybrid Theoretical and Data-Driven Approach to Crowd Dynamics Modelling</strong><br>
+A. Del Vecchio, A. Della Pia, and C. C. Graciani Rodrigues<br>
+<em>22nd European Conference on Multi-Agent Systems (EUMAS 2025)</em>,<br>
+Lecture Notes in Computer Science, Vol. 16258, Springer Cham, 2026.</p></li>
+<li><p><strong>Mean Square Stability and <span class="math inline">\(H_2\)</span> Control for Markov Jump Linear Systems with Multiplicative Noises and Partial Mode Information</strong><br>
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso<br>
+<em>57th IEEE Conference on Decision &amp; Control</em>, 5604–5609, Miami Beach, FL, USA, 2018.<br>
+<a href="https://doi.org/10.1109/CDC.2018.8619184">DOI</a></p></li>
+<li><p><strong><span class="math inline">\(H_\infty\)</span> Filtering for Markovian Jump Linear Systems with Mode Partial Information</strong><br>
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso<br>
+<em>55th IEEE Conference on Decision &amp; Control</em>, 640–645, Las Vegas, USA, 2016.<br>
+<a href="https://doi.org/10.1109/CDC.2016.7798341">DOI</a></p></li>
+<li><p><strong><span class="math inline">\(H_\infty\)</span> Control for Continuous-Time Markov Jump Linear Systems with Partial Mode Information</strong><br>
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso<br>
+<em>XXI Congresso Brasileiro de Automática</em>, 1572–1577, Vitória, ES, Brazil, 2016.</p></li>
+<li><p><strong>A Bounded Real Lemma for Continuous-Time Linear Systems with Partial Information on the Markovian Jumping Parameters</strong><br>
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso<br>
+<em>54th IEEE Conference on Decision &amp; Control</em>, 4226–4231, Osaka, Japan, 2015.<br>
+<a href="https://doi.org/10.1109/CDC.2015.7402878">DOI</a></p></li>
+</ol>
 
 
 </section>
@@ -555,7 +654,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© 2026 Caio C. Graciani Rodrigues</p>
+<p>© 2026 Caio César Graciani Rodrigues</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

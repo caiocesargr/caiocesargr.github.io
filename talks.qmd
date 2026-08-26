@@ -1,1 +1,60 @@
-# Talks
+---
+title: "Talks & Academic Activities"
+---
+
+## Conference Presentations
+
+### European Control Conference (ECC 2026)
+
+**Free-Energy Minimizing Policies under Generative Model Ambiguity**  
+European Control Conference (ECC 2026)  
+Reykjavík, Iceland, July 2026
+
+A. Shafiei, C. C. Graciani Rodrigues, and G. Russo
+
+[arXiv](https://arxiv.org/abs/2604.08222)
+
+### 57th IEEE Conference on Decision and Control (CDC 2018)
+
+**Mean Square Stability and $H_2$ Control for Markov Jump Linear Systems with Multiplicative Noises and Partial Mode Information**  
+Miami Beach, FL, USA, 2018
+
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso
+
+[DOI](https://doi.org/10.1109/CDC.2018.8619184)
+
+### 55th IEEE Conference on Decision and Control (CDC 2016)
+
+**$H_\infty$ Filtering for Markovian Jump Linear Systems with Mode Partial Information**  
+Las Vegas, USA, December 2016
+
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso
+
+[DOI](https://doi.org/10.1109/CDC.2016.7798341)
+
+### XXI Congresso Brasileiro de Automática (CBA 2016)
+
+**$H_\infty$ Control for Continuous-Time Markov Jump Linear Systems with Partial Mode Information**  
+Vitória, ES, Brazil, October 2016
+
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso
+
+### 54th IEEE Conference on Decision and Control (CDC 2015)
+
+**A Bounded Real Lemma for Continuous-Time Linear Systems with Partial Information on the Markovian Jumping Parameters**  
+Osaka, Japan, 2015
+
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso
+
+[DOI](https://doi.org/10.1109/CDC.2015.7402878)
+
+## Scientific Organization
+
+### Invited Session — European Control Conference (ECC 2026)
+
+**Robust Learning, Control, and Games under Uncertainty: Theory, Algorithms and Applications**
+
+European Control Conference (ECC 2026)  
+Reykjavík, Iceland, July 2026
+
+Invited session jointly organized with **Prof. Giovanni Russo**, University of Salerno.

@@ -4,42 +4,140 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Curriculum Vitae"
+    "text": "An up-to-date version of my academic curriculum vitae is available below.\nDownload full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#current-position",
+    "href": "cv.html#current-position",
+    "title": "Curriculum Vitae",
+    "section": "Current Position",
+    "text": "Current Position\nPostdoctoral Researcher\nDepartment of Modeling and Engineering of Risk and Complexity (MERC)\nScuola Superiore Meridionale (SSM)\nNaples, Italy"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nDoctor of Science (D.Sc.) in Computational Modeling\nNational Laboratory for Scientific Computing (LNCC), Brazil\n2013–2017\nMaster of Science (M.Sc.) in Computational Modeling in Science and Technology\nFluminense Federal University (UFF), Brazil\n2011–2013\nB.Sc. in Mathematics\nFluminense Federal University (UFF), Brazil\n2007–2010"
+  },
+  {
+    "objectID": "cv.html#research-areas",
+    "href": "cv.html#research-areas",
+    "title": "Curriculum Vitae",
+    "section": "Research Areas",
+    "text": "Research Areas\nStochastic Control · Applied Probability · Distributionally Robust Optimization · Markov Jump Systems · Stochastic Games · Mathematical Finance"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Publications"
+    "text": "A Model of Strategic Sustainable Investment\nT. De Angelis, C. C. Graciani Rodrigues, and P. Tankov\nMathematical Finance, 2026.\nDOI · arXiv\nFast Detector-Based \\(H_2\\) Control for Markov Jump Linear Systems with Multiplicative Noises\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nSIAM Journal on Control and Optimization, 59(6), 4243–4267, 2021.\nDOI\nHomogenized First-Moment Analysis of Two-Time-Scale Positive Markov Jump Linear Systems\nM. G. Todorov, F. O. dos Santos, and C. C. Graciani Rodrigues\nJournal of the Franklin Institute, 2021.\nDOI\nDetector-Based Approach for \\(H_\\infty\\) Filtering of Markov Jump Linear Systems with Partial Mode Information\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nIET Control Theory & Applications, 13(9), 1298–1308, 2019.\nArticle\n\\(H_\\infty\\) Control of Continuous-Time Markov Jump Linear Systems with Detector-Based Information\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nInternational Journal of Control, 90(10), 2178–2196, 2017.\nDOI\nAn Agent-Based Computational Model for Tuberculosis Spreading on Age-Structured Populations\nC. C. Graciani Rodrigues, A. L. Espíndola, and T. J. Penna\nPhysica A, 428, 52–59, 2015.\nDOI"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "A Model of Strategic Sustainable Investment\nT. De Angelis, C. C. Graciani Rodrigues, and P. Tankov\nMathematical Finance, 2026.\nDOI · arXiv\nFast Detector-Based \\(H_2\\) Control for Markov Jump Linear Systems with Multiplicative Noises\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nSIAM Journal on Control and Optimization, 59(6), 4243–4267, 2021.\nDOI\nHomogenized First-Moment Analysis of Two-Time-Scale Positive Markov Jump Linear Systems\nM. G. Todorov, F. O. dos Santos, and C. C. Graciani Rodrigues\nJournal of the Franklin Institute, 2021.\nDOI\nDetector-Based Approach for \\(H_\\infty\\) Filtering of Markov Jump Linear Systems with Partial Mode Information\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nIET Control Theory & Applications, 13(9), 1298–1308, 2019.\nArticle\n\\(H_\\infty\\) Control of Continuous-Time Markov Jump Linear Systems with Detector-Based Information\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nInternational Journal of Control, 90(10), 2178–2196, 2017.\nDOI\nAn Agent-Based Computational Model for Tuberculosis Spreading on Age-Structured Populations\nC. C. Graciani Rodrigues, A. L. Espíndola, and T. J. Penna\nPhysica A, 428, 52–59, 2015.\nDOI"
+  },
+  {
+    "objectID": "publications.html#conference-proceedings",
+    "href": "publications.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\nFree-Energy Minimizing Policies under Generative Model Ambiguity\nA. Shafiei, C. C. Graciani Rodrigues, and G. Russo\n2026 European Control Conference (ECC), 2006–2013, 2026.\narXiv\nA Hybrid Theoretical and Data-Driven Approach to Crowd Dynamics Modelling\nA. Del Vecchio, A. Della Pia, and C. C. Graciani Rodrigues\n22nd European Conference on Multi-Agent Systems (EUMAS 2025),\nLecture Notes in Computer Science, Vol. 16258, Springer Cham, 2026.\nMean Square Stability and \\(H_2\\) Control for Markov Jump Linear Systems with Multiplicative Noises and Partial Mode Information\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\n57th IEEE Conference on Decision & Control, 5604–5609, Miami Beach, FL, USA, 2018.\nDOI\n\\(H_\\infty\\) Filtering for Markovian Jump Linear Systems with Mode Partial Information\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\n55th IEEE Conference on Decision & Control, 640–645, Las Vegas, USA, 2016.\nDOI\n\\(H_\\infty\\) Control for Continuous-Time Markov Jump Linear Systems with Partial Mode Information\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nXXI Congresso Brasileiro de Automática, 1572–1577, Vitória, ES, Brazil, 2016.\nA Bounded Real Lemma for Continuous-Time Linear Systems with Partial Information on the Markovian Jumping Parameters\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\n54th IEEE Conference on Decision & Control, 4226–4231, Osaka, Japan, 2015.\nDOI"
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "Talks",
+    "title": "Talks & Academic Activities",
     "section": "",
-    "text": "Talks"
+    "text": "Free-Energy Minimizing Policies under Generative Model Ambiguity\nEuropean Control Conference (ECC 2026)\nReykjavík, Iceland, July 2026\nA. Shafiei, C. C. Graciani Rodrigues, and G. Russo\narXiv\n\n\n\nMean Square Stability and \\(H_2\\) Control for Markov Jump Linear Systems with Multiplicative Noises and Partial Mode Information\nMiami Beach, FL, USA, 2018\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nDOI\n\n\n\n\\(H_\\infty\\) Filtering for Markovian Jump Linear Systems with Mode Partial Information\nLas Vegas, USA, December 2016\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nDOI\n\n\n\n\\(H_\\infty\\) Control for Continuous-Time Markov Jump Linear Systems with Partial Mode Information\nVitória, ES, Brazil, October 2016\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\n\n\n\nA Bounded Real Lemma for Continuous-Time Linear Systems with Partial Information on the Markovian Jumping Parameters\nOsaka, Japan, 2015\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nDOI"
+  },
+  {
+    "objectID": "talks.html#conference-presentations",
+    "href": "talks.html#conference-presentations",
+    "title": "Talks & Academic Activities",
+    "section": "",
+    "text": "Free-Energy Minimizing Policies under Generative Model Ambiguity\nEuropean Control Conference (ECC 2026)\nReykjavík, Iceland, July 2026\nA. Shafiei, C. C. Graciani Rodrigues, and G. Russo\narXiv\n\n\n\nMean Square Stability and \\(H_2\\) Control for Markov Jump Linear Systems with Multiplicative Noises and Partial Mode Information\nMiami Beach, FL, USA, 2018\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nDOI\n\n\n\n\\(H_\\infty\\) Filtering for Markovian Jump Linear Systems with Mode Partial Information\nLas Vegas, USA, December 2016\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nDOI\n\n\n\n\\(H_\\infty\\) Control for Continuous-Time Markov Jump Linear Systems with Partial Mode Information\nVitória, ES, Brazil, October 2016\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\n\n\n\nA Bounded Real Lemma for Continuous-Time Linear Systems with Partial Information on the Markovian Jumping Parameters\nOsaka, Japan, 2015\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nDOI"
+  },
+  {
+    "objectID": "talks.html#scientific-organization",
+    "href": "talks.html#scientific-organization",
+    "title": "Talks & Academic Activities",
+    "section": "Scientific Organization",
+    "text": "Scientific Organization\n\nInvited Session — European Control Conference (ECC 2026)\nRobust Learning, Control, and Games under Uncertainty: Theory, Algorithms and Applications\nEuropean Control Conference (ECC 2026)\nReykjavík, Iceland, July 2026\nInvited session jointly organized with Prof. Giovanni Russo, University of Salerno."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Research"
+    "text": "My research lies at the intersection of stochastic control, optimization, applied probability, and decision-making under uncertainty. I am particularly interested in mathematical models in which decisions must be made under incomplete information, model ambiguity, or randomly evolving environments.\nMy current research can be broadly organized into three interconnected areas."
+  },
+  {
+    "objectID": "research.html#stochastic-control-and-markov-jump-systems",
+    "href": "research.html#stochastic-control-and-markov-jump-systems",
+    "title": "Research",
+    "section": "Stochastic Control and Markov Jump Systems",
+    "text": "Stochastic Control and Markov Jump Systems\nA significant part of my research concerns the analysis and control of dynamical systems subject to random regime changes, with particular emphasis on Markov jump linear systems and problems in which the underlying operating mode is only partially observed.\nMy work in this area includes robust control, filtering, stability analysis, and detector-based approaches for systems with incomplete mode information. I am particularly interested in how partial information and stochastic switching affect the design of controllers and estimators, and in developing mathematically tractable methods that can be implemented computationally.\n\nSelected related work\n\nFast Detector-Based \\(H_2\\) Control for Markov Jump Linear Systems with Multiplicative Noises C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso SIAM Journal on Control and Optimization, 59(6), 4243–4267, 2021. DOI\nDetector-Based Approach for \\(H_\\infty\\) Filtering of Markov Jump Linear Systems with Partial Mode Information C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso IET Control Theory & Applications, 13(9), 1298–1308, 2019.\n\\(H_\\infty\\) Control of Continuous-Time Markov Jump Linear Systems with Detector-Based Information C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso International Journal of Control, 90(10), 2178–2196, 2017."
+  },
+  {
+    "objectID": "research.html#distributionally-robust-optimization-and-decision-making-under-uncertainty",
+    "href": "research.html#distributionally-robust-optimization-and-decision-making-under-uncertainty",
+    "title": "Research",
+    "section": "Distributionally Robust Optimization and Decision-Making under Uncertainty",
+    "text": "Distributionally Robust Optimization and Decision-Making under Uncertainty\nMore recently, my research has focused on decision-making under model ambiguity, particularly in settings where the probability distributions governing the system are not known exactly.\nI am interested in distributionally robust formulations in which uncertainty is represented through ambiguity sets around nominal probabilistic models. Current topics include KL-divergence ambiguity sets, optimization over probability distributions, robust policy design, and free-energy-based formulations of decision-making.\nA central objective of this research is to develop methods that are both mathematically rigorous and computationally implementable, particularly for problems involving nested optimization and worst-case probabilistic models.\n\nSelected related work\n\nFree-Energy Minimizing Policies Under Generative Model Ambiguity A. Shafiei, C. C. Graciani Rodrigues, and G. Russo European Control Conference (ECC), 2026. arXiv"
+  },
+  {
+    "objectID": "research.html#stochastic-games-and-mathematical-finance",
+    "href": "research.html#stochastic-games-and-mathematical-finance",
+    "title": "Research",
+    "section": "Stochastic Games and Mathematical Finance",
+    "text": "Stochastic Games and Mathematical Finance\nAnother strand of my research concerns strategic decision-making under uncertainty, particularly through stochastic games and applications to mathematical finance.\nI am interested in models in which multiple decision-makers interact dynamically while facing stochastic economic or environmental conditions. These problems naturally combine stochastic control, game theory, optimal stopping, and free-boundary methods.\nRecent work in this direction studies strategic sustainable investment decisions and the interaction between firms and investors when investment opportunities and economic conditions evolve randomly.\n\nSelected related work\n\nA Model of Strategic Sustainable Investment T. De Angelis, C. C. Graciani Rodrigues, and P. Tankov Mathematical Finance, 2026. DOI · arXiv"
+  },
+  {
+    "objectID": "research.html#broader-interests",
+    "href": "research.html#broader-interests",
+    "title": "Research",
+    "section": "Broader Interests",
+    "text": "Broader Interests\nMy broader research interests include:\n\nStochastic control\nApplied probability\nDistributionally robust optimization\nRobust decision-making\nMarkov jump systems\nStochastic games\nMathematical finance\nOptimization under uncertainty"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Teaching"
+    "text": "Department of Modeling and Engineering of Risk and Complexity (MERC)\nScuola Superiore Meridionale, Naples, Italy\nTaught in: - Jan–Feb 2023 - Jan–Feb 2024 - Jan–Feb 2025 - Nov 2025\nThe course introduces key concepts in probability and stochastic modeling, with emphasis on applications in engineering and science. Topics include probability theory, random variables, Markov chains, and Poisson processes.\n\n\n\nDepartment of Modeling and Engineering of Risk and Complexity (MERC)\nScuola Superiore Meridionale, Naples, Italy\nTaught in: - Nov–Dec 2022 - Nov 2024–Jan 2025\nAn interdisciplinary course focused on mathematical modeling, data analysis, uncertainty quantification, and risk assessment, with applications to problems in science and engineering."
+  },
+  {
+    "objectID": "teaching.html#scuola-superiore-meridionale",
+    "href": "teaching.html#scuola-superiore-meridionale",
+    "title": "Teaching",
+    "section": "",
+    "text": "Department of Modeling and Engineering of Risk and Complexity (MERC)\nScuola Superiore Meridionale, Naples, Italy\nTaught in: - Jan–Feb 2023 - Jan–Feb 2024 - Jan–Feb 2025 - Nov 2025\nThe course introduces key concepts in probability and stochastic modeling, with emphasis on applications in engineering and science. Topics include probability theory, random variables, Markov chains, and Poisson processes.\n\n\n\nDepartment of Modeling and Engineering of Risk and Complexity (MERC)\nScuola Superiore Meridionale, Naples, Italy\nTaught in: - Nov–Dec 2022 - Nov 2024–Jan 2025\nAn interdisciplinary course focused on mathematical modeling, data analysis, uncertainty quantification, and risk assessment, with applications to problems in science and engineering."
+  },
+  {
+    "objectID": "teaching.html#previous-teaching-experience",
+    "href": "teaching.html#previous-teaching-experience",
+    "title": "Teaching",
+    "section": "Previous Teaching Experience",
+    "text": "Previous Teaching Experience\n\nCentro Universitário de Volta Redonda (UniFOA)\nUndergraduate courses: Calculus I; Linear Algebra\nVolta Redonda, Brazil, 2012–2013\n\n\nCEDERJ – Volta Redonda\nUndergraduate courses: Discrete Mathematics; Calculus I and II; Ordinary Differential Equations\nVolta Redonda, Brazil, 2011–2013\n\n\nFluminense Federal University (UFF)\nTeaching internship: Analytical Geometry; Ordinary Differential Equations\nVolta Redonda, Brazil, 2011"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Caio César Graciani Rodrigues",
     "section": "",
-    "text": "Contact"
+    "text": "Caio César Graciani Rodrigues\nDepartment of Modeling and Engineering of Risk and Complexity (MERC)\nScuola Superiore Meridionale (SSM)\nNaples, Italy\nInstitutional email: c.graciani@ssmeridionale.it\nPersonal email: c.cesargr@gmail.com\nGoogle Scholar · LinkedIn"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Caio César Graciani Rodrigues",
+    "section": "",
+    "text": "Caio César Graciani Rodrigues\nDepartment of Modeling and Engineering of Risk and Complexity (MERC)\nScuola Superiore Meridionale (SSM)\nNaples, Italy\nInstitutional email: c.graciani@ssmeridionale.it\nPersonal email: c.cesargr@gmail.com\nGoogle Scholar · LinkedIn"
   },
   {
     "objectID": "index.html",

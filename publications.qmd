@@ -1,1 +1,67 @@
-# Publications
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+1. **A Model of Strategic Sustainable Investment**  
+   T. De Angelis, C. C. Graciani Rodrigues, and P. Tankov  
+   *Mathematical Finance*, 2026.  
+   [DOI](https://doi.org/10.1111/mafi.70033) · [arXiv](https://arxiv.org/abs/2412.00986)
+
+2. **Fast Detector-Based $H_2$ Control for Markov Jump Linear Systems with Multiplicative Noises**  
+   C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+   *SIAM Journal on Control and Optimization*, 59(6), 4243–4267, 2021.  
+   [DOI](https://doi.org/10.1137/20M1335303)
+
+3. **Homogenized First-Moment Analysis of Two-Time-Scale Positive Markov Jump Linear Systems**  
+   M. G. Todorov, F. O. dos Santos, and C. C. Graciani Rodrigues  
+   *Journal of the Franklin Institute*, 2021.  
+   [DOI](https://doi.org/10.1016/j.jfranklin.2021.01.016)
+
+4. **Detector-Based Approach for $H_\infty$ Filtering of Markov Jump Linear Systems with Partial Mode Information**  
+   C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+   *IET Control Theory & Applications*, 13(9), 1298–1308, 2019.  
+   [Article](http://ietdl.org/t/xZX83b)
+
+5. **$H_\infty$ Control of Continuous-Time Markov Jump Linear Systems with Detector-Based Information**  
+   C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+   *International Journal of Control*, 90(10), 2178–2196, 2017.  
+   [DOI](https://doi.org/10.1080/00207179.2016.1238511)
+
+6. **An Agent-Based Computational Model for Tuberculosis Spreading on Age-Structured Populations**  
+   C. C. Graciani Rodrigues, A. L. Espíndola, and T. J. Penna  
+   *Physica A*, 428, 52–59, 2015.  
+   [DOI](https://doi.org/10.1016/j.physa.2015.02.027)
+
+
+## Conference Proceedings
+
+1. **Free-Energy Minimizing Policies under Generative Model Ambiguity**  
+   A. Shafiei, C. C. Graciani Rodrigues, and G. Russo  
+   *2026 European Control Conference (ECC)*, 2006–2013, 2026.  
+   [arXiv](https://arxiv.org/abs/2604.08222)
+
+2. **A Hybrid Theoretical and Data-Driven Approach to Crowd Dynamics Modelling**  
+   A. Del Vecchio, A. Della Pia, and C. C. Graciani Rodrigues  
+   *22nd European Conference on Multi-Agent Systems (EUMAS 2025)*,  
+   Lecture Notes in Computer Science, Vol. 16258, Springer Cham, 2026.
+
+3. **Mean Square Stability and $H_2$ Control for Markov Jump Linear Systems with Multiplicative Noises and Partial Mode Information**  
+   C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+   *57th IEEE Conference on Decision & Control*, 5604–5609, Miami Beach, FL, USA, 2018.  
+   [DOI](https://doi.org/10.1109/CDC.2018.8619184)
+
+4. **$H_\infty$ Filtering for Markovian Jump Linear Systems with Mode Partial Information**  
+   C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+   *55th IEEE Conference on Decision & Control*, 640–645, Las Vegas, USA, 2016.  
+   [DOI](https://doi.org/10.1109/CDC.2016.7798341)
+
+5. **$H_\infty$ Control for Continuous-Time Markov Jump Linear Systems with Partial Mode Information**  
+   C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+   *XXI Congresso Brasileiro de Automática*, 1572–1577, Vitória, ES, Brazil, 2016.
+
+6. **A Bounded Real Lemma for Continuous-Time Linear Systems with Partial Information on the Markovian Jumping Parameters**  
+   C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+   *54th IEEE Conference on Decision & Control*, 4226–4231, Osaka, Japan, 2015.  
+   [DOI](https://doi.org/10.1109/CDC.2015.7402878)
