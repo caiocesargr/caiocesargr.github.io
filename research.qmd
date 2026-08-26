@@ -2,70 +2,57 @@
 title: "Research"
 ---
 
-My research lies at the intersection of **stochastic control, optimization, applied probability, and decision-making under uncertainty**. I am particularly interested in mathematical models in which decisions must be made under incomplete information, model ambiguity, or randomly evolving environments.
-
-My current research can be broadly organized into three interconnected areas.
+My research lies at the intersection of **stochastic control, optimization, applied probability, and decision-making under uncertainty**. A recurring theme in my work is the development of mathematical models and computational methods for systems operating under incomplete information, stochastic dynamics, or model uncertainty.
 
 ## Stochastic Control and Markov Jump Systems
 
-A significant part of my research concerns the analysis and control of dynamical systems subject to random regime changes, with particular emphasis on **Markov jump linear systems** and problems in which the underlying operating mode is only partially observed.
+A substantial part of my research concerns dynamical systems subject to random regime changes, with particular emphasis on **Markov jump linear systems** and settings in which the underlying operating mode is only partially observed.
 
-My work in this area includes robust control, filtering, stability analysis, and detector-based approaches for systems with incomplete mode information. I am particularly interested in how partial information and stochastic switching affect the design of controllers and estimators, and in developing mathematically tractable methods that can be implemented computationally.
+My work in this area addresses control, filtering, stability analysis, and detector-based methods for systems with incomplete mode information and stochastic switching. The main objective is to characterize how partial information affects the design and performance of controllers and estimators, while retaining formulations that are mathematically tractable and computationally implementable.
 
-### Selected related work
+### Selected Related Work
 
-* **Fast Detector-Based $H_2$ Control for Markov Jump Linear Systems with Multiplicative Noises**
-  C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso
-  *SIAM Journal on Control and Optimization*, 59(6), 4243–4267, 2021.
-  [DOI](https://doi.org/10.1137/20M1335303)
+**Fast Detector-Based $H_2$ Control for Markov Jump Linear Systems with Multiplicative Noises**  
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+*SIAM Journal on Control and Optimization*, 59(6), 4243–4267, 2021.  
+[DOI](https://doi.org/10.1137/20M1335303)
 
-* **Detector-Based Approach for $H_\infty$ Filtering of Markov Jump Linear Systems with Partial Mode Information**
-  C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso
-  *IET Control Theory & Applications*, 13(9), 1298–1308, 2019.
+**Detector-Based Approach for $H_\infty$ Filtering of Markov Jump Linear Systems with Partial Mode Information**  
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+*IET Control Theory & Applications*, 13(9), 1298–1308, 2019.
 
-* **$H_\infty$ Control of Continuous-Time Markov Jump Linear Systems with Detector-Based Information**
-  C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso
-  *International Journal of Control*, 90(10), 2178–2196, 2017.
+**$H_\infty$ Control of Continuous-Time Markov Jump Linear Systems with Detector-Based Information**  
+C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso  
+*International Journal of Control*, 90(10), 2178–2196, 2017.
+
 
 ## Distributionally Robust Optimization and Decision-Making under Uncertainty
 
-More recently, my research has focused on **decision-making under model ambiguity**, particularly in settings where the probability distributions governing the system are not known exactly.
+My current research also focuses on **decision-making under model ambiguity**, particularly in situations where the probability distributions governing a system cannot be assumed to be known exactly.
 
-I am interested in distributionally robust formulations in which uncertainty is represented through ambiguity sets around nominal probabilistic models. Current topics include KL-divergence ambiguity sets, optimization over probability distributions, robust policy design, and free-energy-based formulations of decision-making.
+I study distributionally robust formulations in which uncertainty is represented through ambiguity sets around nominal probabilistic models. Topics of interest include KL-divergence ambiguity sets, optimization over probability distributions, robust policy design, and free-energy-based formulations of decision-making.
 
-A central objective of this research is to develop methods that are both mathematically rigorous and computationally implementable, particularly for problems involving nested optimization and worst-case probabilistic models.
+A central goal is to develop approaches that combine rigorous mathematical analysis with computational methods for nested optimization and worst-case probabilistic models.
 
-### Selected related work
+### Selected Related Work
 
-* **Free-Energy Minimizing Policies Under Generative Model Ambiguity**
-  A. Shafiei, C. C. Graciani Rodrigues, and G. Russo
-  *European Control Conference (ECC)*, 2026.
-  [arXiv](https://arxiv.org/abs/2604.08222)
+**Free-Energy Minimizing Policies Under Generative Model Ambiguity**  
+A. Shafiei, C. C. Graciani Rodrigues, and G. Russo  
+*European Control Conference (ECC)*, 2026.  
+[arXiv](https://arxiv.org/abs/2604.08222)
+
 
 ## Stochastic Games and Mathematical Finance
 
-Another strand of my research concerns **strategic decision-making under uncertainty**, particularly through stochastic games and applications to mathematical finance.
+Another strand of my research concerns **strategic decision-making under uncertainty**, with applications to stochastic games and mathematical finance.
 
-I am interested in models in which multiple decision-makers interact dynamically while facing stochastic economic or environmental conditions. These problems naturally combine stochastic control, game theory, optimal stopping, and free-boundary methods.
+These problems involve interacting decision-makers facing stochastic economic or environmental conditions and naturally combine tools from stochastic control, game theory, optimal stopping, and free-boundary analysis.
 
-Recent work in this direction studies strategic sustainable investment decisions and the interaction between firms and investors when investment opportunities and economic conditions evolve randomly.
+Recent work in this direction studies strategic sustainable investment and the interaction between firms and investors when investment opportunities and economic conditions evolve randomly.
 
-### Selected related work
+### Selected Related Work
 
-* **A Model of Strategic Sustainable Investment**
-  T. De Angelis, C. C. Graciani Rodrigues, and P. Tankov
-  *Mathematical Finance*, 2026.
-  [DOI](https://doi.org/10.1111/mafi.70033) · [arXiv](https://arxiv.org/abs/2412.00986)
-
-## Broader Interests
-
-My broader research interests include:
-
-* Stochastic control
-* Applied probability
-* Distributionally robust optimization
-* Robust decision-making
-* Markov jump systems
-* Stochastic games
-* Mathematical finance
-* Optimization under uncertainty
+**A Model of Strategic Sustainable Investment**  
+T. De Angelis, C. C. Graciani Rodrigues, and P. Tankov  
+*Mathematical Finance*, 2026.  
+[DOI](https://doi.org/10.1111/mafi.70033) · [arXiv](https://arxiv.org/abs/2412.00986)

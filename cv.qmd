@@ -2,9 +2,10 @@
 title: "Curriculum Vitae"
 ---
 
-An up-to-date version of my academic curriculum vitae is available below.
+A concise overview of my academic background is provided below. A complete and up-to-date version of my curriculum vitae is available as a PDF.
 
-[**Download full CV (PDF)**](files/Caio_Graciani_Rodrigues_CV.pdf){.btn .btn-primary}
+[**Download Full CV (PDF)**](files/Caio_Graciani_Rodrigues_CV.pdf){.btn .btn-primary}
+
 
 ## Current Position
 
@@ -13,20 +14,58 @@ Department of Modeling and Engineering of Risk and Complexity (MERC)
 Scuola Superiore Meridionale (SSM)  
 Naples, Italy
 
+Currently holding a two-year PNRR postdoctoral fellowship at the Scuola Superiore Meridionale.
+
+
 ## Education
 
-**Doctor of Science (D.Sc.) in Computational Modeling**  
-National Laboratory for Scientific Computing (LNCC), Brazil  
+### Doctor of Science (D.Sc.) in Computational Modeling
+
+**National Laboratory for Scientific Computing (LNCC)**  
+Petrópolis, RJ, Brazil  
 2013–2017
 
-**Master of Science (M.Sc.) in Computational Modeling in Science and Technology**  
-Fluminense Federal University (UFF), Brazil  
+**Thesis:** *Control and Filtering for Continuous-Time Markov Jump Linear Systems with Partial Mode Information*
+
+Advisors: Prof. Marcos Garcia Todorov and Prof. Marcelo Dutra Fragoso
+
+
+### Master of Science (M.Sc.) in Computational Modeling in Science and Technology
+
+**Fluminense Federal University (UFF)**  
+Volta Redonda, RJ, Brazil  
 2011–2013
 
-**B.Sc. in Mathematics**  
-Fluminense Federal University (UFF), Brazil  
+**Dissertation:** *Age Effects in the Spreading of Tuberculosis*
+
+Advisors: Prof. Thadeu Josino Penna and Prof. Aquino Lauri de Espíndola
+
+
+### B.Sc. in Mathematics
+
+**Fluminense Federal University (UFF)**  
+Volta Redonda, RJ, Brazil  
 2007–2010
+
+
+## Previous Research Positions
+
+**Postdoctoral Researcher**  
+Department of Modeling and Engineering of Risk and Complexity (MERC)  
+Scuola Superiore Meridionale (SSM), Naples, Italy  
+2022–2025
+
+**Research Fellow**  
+National Laboratory for Scientific Computing (LNCC), Brazil  
+Funded by the National Council for Scientific and Technological Development (CNPq)  
+2017–2022
+
 
 ## Research Areas
 
-Stochastic Control · Applied Probability · Distributionally Robust Optimization · Markov Jump Systems · Stochastic Games · Mathematical Finance
+Stochastic Control · Applied Probability · Distributionally Robust Optimization · Markov Jump Systems · Stochastic Games · Mathematical Finance · Decision-Making under Uncertainty
+
+
+## Languages
+
+Portuguese · English · Italian

@@ -9,38 +9,39 @@ title: "Teaching"
 **Department of Modeling and Engineering of Risk and Complexity (MERC)**  
 Scuola Superiore Meridionale, Naples, Italy
 
-Taught in:
-- Jan–Feb 2023
-- Jan–Feb 2024
-- Jan–Feb 2025
-- Nov 2025
+**Taught in:** Jan–Feb 2023; Jan–Feb 2024; Jan–Feb 2025; Nov 2025
 
 The course introduces key concepts in probability and stochastic modeling, with emphasis on applications in engineering and science. Topics include probability theory, random variables, Markov chains, and Poisson processes.
+
 
 ### Mathematics and Data Modeling
 
 **Department of Modeling and Engineering of Risk and Complexity (MERC)**  
 Scuola Superiore Meridionale, Naples, Italy
 
-Taught in:
-- Nov–Dec 2022
-- Nov 2024–Jan 2025
+**Taught in:** Nov–Dec 2022; Nov 2024–Jan 2025
 
 An interdisciplinary course focused on mathematical modeling, data analysis, uncertainty quantification, and risk assessment, with applications to problems in science and engineering.
+
 
 ## Previous Teaching Experience
 
 ### Centro Universitário de Volta Redonda (UniFOA)
 
 **Undergraduate courses:** Calculus I; Linear Algebra  
-Volta Redonda, Brazil, 2012–2013
+Volta Redonda, Brazil  
+2012–2013
+
 
 ### CEDERJ – Volta Redonda
 
 **Undergraduate courses:** Discrete Mathematics; Calculus I and II; Ordinary Differential Equations  
-Volta Redonda, Brazil, 2011–2013
+Volta Redonda, Brazil  
+2011–2013
+
 
 ### Fluminense Federal University (UFF)
 
 **Teaching internship:** Analytical Geometry; Ordinary Differential Equations  
-Volta Redonda, Brazil, 2011
+Volta Redonda, Brazil  
+2011
