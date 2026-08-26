@@ -7,8 +7,6 @@ subtitle: "Applied Mathematics · Stochastic Control · Optimization under Uncer
 
 ::: {.column width="30%"}
 ![](images/profile.jpg){.profile-photo}
-
-*Website under construction — content is being updated.*
 :::
 
 ::: {.column .about-text width="70%"}
