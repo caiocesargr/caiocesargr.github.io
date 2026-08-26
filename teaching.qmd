@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+pagetitle: "Teaching | Caio César Graciani Rodrigues"
 ---
 
 ## Scuola Superiore Meridionale

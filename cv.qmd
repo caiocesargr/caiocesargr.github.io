@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae"
+pagetitle: "CV | Caio César Graciani Rodrigues"
 ---
 
 A concise overview of my academic background is provided below. A complete and up-to-date version of my curriculum vitae is available as a PDF.

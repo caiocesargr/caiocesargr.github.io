@@ -1,5 +1,6 @@
 ---
 title: "Talks & Academic Activities"
+pagetitle: "Talks & Academic Activities | Caio César Graciani Rodrigues"
 ---
 
 ## Conference Presentations

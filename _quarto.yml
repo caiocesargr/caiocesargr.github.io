@@ -8,6 +8,8 @@ website:
   description: "Academic website of Caio César Graciani Rodrigues, researcher in applied mathematics, stochastic control, optimization, applied probability, and decision-making under uncertainty."
   favicon: images/favicon.png
   open-graph: true
+  image: images/social-preview.png
+  image-alt: "Caio C. Graciani Rodrigues — Academic Website"
 
   navbar:
     left:

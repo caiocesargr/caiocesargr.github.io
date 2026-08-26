@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+pagetitle: "Publications | Caio César Graciani Rodrigues"
 ---
 
 ## Journal Articles

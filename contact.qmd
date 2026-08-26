@@ -1,4 +1,7 @@
-## Contact
+---
+title: "Contact"
+pagetitle: "Contact | Caio César Graciani Rodrigues"
+---
 
 **Caio César Graciani Rodrigues**
 
