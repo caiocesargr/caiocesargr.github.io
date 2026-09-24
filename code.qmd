@@ -24,6 +24,8 @@ and the corresponding publications.
 
 ### Detector-based $H_\infty$ filtering for Markov jump linear systems
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22938714.svg)](https://doi.org/10.5281/zenodo.22938714)
+
 Python implementation and numerical reproduction of the paper
 
 **C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso**  
@@ -36,5 +38,6 @@ of the examples and figures presented in the paper.
 
 [GitHub repository](https://github.com/caiocesargr/detector-based-hinf-filtering-mjls)
 · [Original paper](https://doi.org/10.1049/iet-cta.2018.5640)
+· [Software DOI](https://doi.org/10.5281/zenodo.22938714)
 
-<!-- Add the Zenodo DOI here once the archival record is processed. -->
+**Archived release:** v1.0.1 · DOI: [10.5281/zenodo.22938714](https://doi.org/10.5281/zenodo.22938714)
