@@ -173,5 +173,33 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#open-research-reproducibility",
+    "href": "index.html#open-research-reproducibility",
+    "title": "Caio César Graciani Rodrigues",
+    "section": "Open Research & Reproducibility",
+    "text": "Open Research & Reproducibility\nI am progressively releasing documented Python implementations and numerical reproductions of selected published research. The collection will grow as I revisit previous work and make simulation codes publicly available.\nExplore research code →"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Research Code & Reproducibility",
+    "section": "",
+    "text": "I am progressively making the numerical implementations and reproducibility material associated with my research publicly available.\nThis page will be expanded over time as I revisit published work, organize simulation codes, document numerical experiments, and release them as reproducible repositories.\n\n\n\n\n\n\nNoteWork in progress\n\n\n\nThis is an ongoing project. Repositories are being added gradually, with an emphasis on clear documentation, reproducibility, and links between the code and the corresponding publications."
+  },
+  {
+    "objectID": "code.html#open-research-code",
+    "href": "code.html#open-research-code",
+    "title": "Research Code & Reproducibility",
+    "section": "",
+    "text": "I am progressively making the numerical implementations and reproducibility material associated with my research publicly available.\nThis page will be expanded over time as I revisit published work, organize simulation codes, document numerical experiments, and release them as reproducible repositories.\n\n\n\n\n\n\nNoteWork in progress\n\n\n\nThis is an ongoing project. Repositories are being added gradually, with an emphasis on clear documentation, reproducibility, and links between the code and the corresponding publications."
+  },
+  {
+    "objectID": "code.html#available-repositories",
+    "href": "code.html#available-repositories",
+    "title": "Research Code & Reproducibility",
+    "section": "Available repositories",
+    "text": "Available repositories\n\nDetector-based \\(H_\\infty\\) filtering for Markov jump linear systems\nPython implementation and numerical reproduction of the paper\nC. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso\nDetector-based approach for \\(H_\\infty\\) filtering of Markov jump linear systems with partial mode information\nIET Control Theory & Applications.\nThe repository includes LMI-based filter synthesis, Algorithm 1, continuous-time Markov-chain simulations, Monte Carlo experiments, and numerical reproductions of the examples and figures presented in the paper.\nGitHub repository · Original paper"
   }
 ]

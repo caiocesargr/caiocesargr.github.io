@@ -19,6 +19,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: code.qmd
+        text: Code
       - href: teaching.qmd
         text: Teaching
       - href: talks.qmd

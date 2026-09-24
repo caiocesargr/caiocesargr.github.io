@@ -32,6 +32,14 @@ Today, my research interests lie mainly in **stochastic control, applied probabi
 
 Stochastic Control · Distributionally Robust Optimization · Markov Jump Systems · Applied Probability
 
+## Open Research & Reproducibility
+
+I am progressively releasing documented Python implementations and numerical
+reproductions of selected published research. The collection will grow as I
+revisit previous work and make simulation codes publicly available.
+
+[Explore research code →](code.qmd)
+
 ## Selected Publications
 
 **A Model of Strategic Sustainable Investment**  

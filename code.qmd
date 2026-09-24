@@ -1,0 +1,40 @@
+---
+title: "Research Code & Reproducibility"
+pagetitle: "Research Code & Reproducibility | Caio César Graciani Rodrigues"
+---
+
+## Open research code
+
+I am progressively making the numerical implementations and reproducibility
+material associated with my research publicly available.
+
+This page will be expanded over time as I revisit published work, organize
+simulation codes, document numerical experiments, and release them as
+reproducible repositories.
+
+::: {.callout-note}
+### Work in progress
+
+This is an ongoing project. Repositories are being added gradually, with an
+emphasis on clear documentation, reproducibility, and links between the code
+and the corresponding publications.
+:::
+
+## Available repositories
+
+### Detector-based $H_\infty$ filtering for Markov jump linear systems
+
+Python implementation and numerical reproduction of the paper
+
+**C. C. Graciani Rodrigues, M. G. Todorov, and M. D. Fragoso**  
+*Detector-based approach for $H_\infty$ filtering of Markov jump linear systems with partial mode information*  
+*IET Control Theory & Applications*.
+
+The repository includes LMI-based filter synthesis, Algorithm 1, continuous-time
+Markov-chain simulations, Monte Carlo experiments, and numerical reproductions
+of the examples and figures presented in the paper.
+
+[GitHub repository](https://github.com/caiocesargr/detector-based-hinf-filtering-mjls)
+· [Original paper](https://doi.org/10.1049/iet-cta.2018.5640)
+
+<!-- Add the Zenodo DOI here once the archival record is processed. -->
